@@ -1,0 +1,4 @@
+#Tue Jan 08 00:45:17 BRST 2019
+base.0=/home/eliane/Documentos/react/Curso/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
